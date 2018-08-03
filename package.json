@@ -1,0 +1,26 @@
+{
+  "name": "chai-within",
+  "version": "1.0.0",
+  "description": "A chai plugin for asserting that all properties within a small object exist in a large one",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": {
+    "validator.js",
+    "index.js"
+  },
+  "keywords": [
+    "chai",
+    "within",
+    "object"
+  ],
+  "author": "joepuzzo",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
