@@ -6,10 +6,10 @@
   "scripts": {
     "test": "mocha"
   },
-  "files": {
+  "files": [
     "validator.js",
     "index.js"
-  },
+  ],
   "keywords": [
     "chai",
     "within",
